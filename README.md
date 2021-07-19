@@ -8,7 +8,6 @@
 ### Connect with me:
 
 - [<img align="left" alt="ArturKudlo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [email] Email
-
 - <img align="left" alt="ArturKudlo | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />@arturkudla
 - [<img align="left" alt="ArturKudlo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] LinkedIn
 - [<img align="left" alt="ArturKudlo | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk] Vkontake
@@ -40,5 +39,5 @@
 
 [linkedin]: https://www.linkedin.com/in/akudla/
 [vk]: https://vk.com/id73315153
-[email]: https://arturkapes@gmail.com
+[email]: arturkapes@gmail.com
 
