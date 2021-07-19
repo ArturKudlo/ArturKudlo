@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-- <img align="left" alt="ArturKudlo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> arturkapes@gmail.com
+- <img align="left" alt="ArturKudlo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> email
 
 - <img align="left" alt="ArturKudlo | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />@arturkudla
 - [<img align="left" alt="ArturKudlo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] LinkedIn
@@ -35,5 +35,6 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 
 
+[email] : arturkapes@gmail.com
 [linkedin]: https://www.linkedin.com/in/akudla/
 [vk]: https://vk.com/id73315153
