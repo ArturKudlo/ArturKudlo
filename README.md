@@ -38,7 +38,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArturKudlo&show_icons=true" />
 </details>
 
-[email]: arturkapes@gmail.com
+[email]: https://arturkapes@gmail.com
 [linkedin]: https://www.linkedin.com/in/akudla/
 [vk]: https://vk.com/id73315153
 
